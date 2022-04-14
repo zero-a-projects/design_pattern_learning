@@ -1,6 +1,8 @@
 package top.ddoc._03_structural._03_composite;
 
 /**
+ * 组合模式
+ * <br> 将对象组合成树形结构来表示“整体/部分”层次关系，允许用户以相同的方式处理单独对象和组合对象。
  * @author zero.wang
  * @version 1.0
  * @date 2022/4/14 6:16 下午
